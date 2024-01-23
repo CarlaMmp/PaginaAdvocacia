@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    font-family: 'Fredoka', sans-serif;
+  }
+
+.secao-topo{
+        border-bottom: 1px solid #d5d5d5;
+}
+
+.topo {
+    font-weight: bold;
+    font-size: 1.5rem;
+    width: 800px;
+    margin: 0;
+    padding: 7px;
+}
+
+h1, h2 {
+    font-family: Georgia;
+    text-align: right;
+    width: 70rem;
+    font-style: italic;
+    margin: 1rem;
+}
+
+.img-capa {
+    min-height: 30rem;
+    background-image: url(capa.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 1rem;
+}
+
+.conteudo {
+    font-family: cursive, 'Fredoka';
+    font-weight: bold;
+    width: 51rem;
+    text-align: left;
+    height: 1rem;
+    font-size: 22px;
+    margin: auto;
+    padding: 1rem;
+}
+
+
+p {
+    font-size: 20px;
+    font-family: unset;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+    width: 50rem;
+    padding: 2rem;
+}
+
+span {
+    border-bottom: 1px solid;
+    padding-left: 10px;
+    font-size: 20px;
+    text-align: left;
+
+}
+.img{
+    text-align: center;
+}
+.img-conteudo{
+    width: 250px;
+    height: 180px;
+}
+
+.divisao{
+    
+    font-size: 36px;
+    background-color: #fff;
+    width: 200px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.atuacao, .contato {
+    width: 10rem;
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-radius: 10rem;
+    background-color: #fffdfd;
+    color: black;
+    margin: auto;
+    font-family: system-ui;
+    
+}
+.background-divisao {
+    padding: 35px;
+    text-align: center;
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    line-height: 1rem;
+}
+
+.titulo-areas{
+    font-size: 20px;
+    font-family: unset;
+    font-style: italic;
+    text-align: left;
+    margin: auto;
+    width: 50rem;
+    padding: 2rem;
+}
+
+ul {
+    text-align: left;
+    border: 0;
+    margin: auto;
+    padding: 8px 20px;
+    width: 48rem;
+}
